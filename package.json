@@ -1,0 +1,20 @@
+{
+  "name": "puppeteer-test-helpers",
+  "version": "1.0.0",
+  "description": "A collection of utilities for good development ergonomics & best practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougpagani/puppeteer-test-helpers.git"
+  },
+  "keywords": [],
+  "author": "Doug Pagani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougpagani/puppeteer-test-helpers/issues"
+  },
+  "homepage": "https://github.com/dougpagani/puppeteer-test-helpers#readme"
+}
